@@ -1,0 +1,380 @@
+{
+  "heading": "Simple present tense and Present continuous tense",
+  "topics": [
+    {
+      "heading": "Simple present tense and Present continuous tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses present continuous tense?",
+          "options": [
+            {
+              "text": "They cook dinner."
+            },
+            {
+              "text": "They are cooking dinner."
+            },
+            {
+              "text": "They cooked dinner."
+            },
+            {
+              "text": "They will cook dinner."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Are cooking' shows an action happening right now. We use this tense to talk about actions happening right now or around this time."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose a simple present-tense sentence.",
+          "options": [
+            {
+              "text": "The baby cries a lot."
+            },
+            {
+              "text": "The baby is crying a lot."
+            },
+            {
+              "text": "The baby cried a lot."
+            },
+            {
+              "text": "The baby will cry a lot."
+            }
+          ],
+          "answer": 0,
+          "explanation": "'The baby cries' describes a regular action in the simple present tense."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is in the present continuous tense?",
+          "options": [
+            {
+              "text": "She cleans her room."
+            },
+            {
+              "text": "She is cleaning her room."
+            },
+            {
+              "text": "She cleaned her room."
+            },
+            {
+              "text": "She will clean her room."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Is cleaning' shows an action happening right now."
+        },
+        {
+          "questionNo": 4,
+          "question": "In the simple present tense, 'He walk to school' is correct.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'He walks to school' is the correct form because we add 's' to the verb when the subject is 'he.'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the sentence in the present continuous tense.",
+          "options": [
+            {
+              "text": "I watch TV."
+            },
+            {
+              "text": "I am watching TV."
+            },
+            {
+              "text": "I watched TV."
+            },
+            {
+              "text": "I will watch TV."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Am watching' shows an action happening right now."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is in the simple present tense?",
+          "options": [
+            {
+              "text": "The cat is sleeping on the bed."
+            },
+            {
+              "text": "The cat sleeps on the bed."
+            },
+            {
+              "text": "The cat slept on the bed."
+            },
+            {
+              "text": "The cat will sleep on the bed."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'The cat sleeps' describes a regular action in the simple present tense."
+        },
+        {
+          "questionNo": 7,
+          "question": "The present continuous tense can describe actions happening right now.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The present continuous tense is used to talk about actions that are happening at this moment."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence is in the present continuous tense?",
+          "options": [
+            {
+              "text": "She talks on the phone."
+            },
+            {
+              "text": "She is talking on the phone."
+            },
+            {
+              "text": "She talked on the phone."
+            },
+            {
+              "text": "She will talk on the phone."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Is talking' shows an action happening right now."
+        },
+        {
+          "questionNo": 9,
+          "question": "The sentence 'The dog barks loudly' is in the present continuous tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'The dog barks loudly' is in the simple present tense because it describes a regular action."
+        },
+        {
+          "questionNo": 10,
+          "question": "She ___  a book every night before bed. <br> (simple present tense)",
+          "options": [
+            {
+              "text": "read"
+            },
+            {
+              "text": "reads"
+            },
+            {
+              "text": "is reading"
+            },
+            {
+              "text": "are reading"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the simple present tense, for 'she,' we add 's' to the verb. So, it becomes 'reads.'"
+        },
+        {
+          "questionNo": 11,
+          "question": "They ___ in the park right now.<br>  (present continuous tense)",
+          "options": [
+            {
+              "text": "play"
+            },
+            {
+              "text": "plays"
+            },
+            {
+              "text": "is playing"
+            },
+            {
+              "text": "are playing"
+            }
+          ],
+          "answer": 3,
+          "explanation": "In the present continuous tense, we use 'are' with 'they' and add 'ing' to the verb. So, it becomes 'are playing.'"
+        },
+        {
+          "questionNo": 12,
+          "question": "Which sentence uses present continuous tense?",
+          "options": [
+            {
+              "text": "They play basketball."
+            },
+            {
+              "text": "They are playing basketball."
+            },
+            {
+              "text": "They played basketball."
+            },
+            {
+              "text": "They will play basketball."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Are playing' shows an action happening right now. We use 'are' for you/we/they."
+        },
+        {
+          "questionNo": 13,
+          "question": "I ___ breakfast every morning.<br>  (simple present tense)",
+          "options": [
+            {
+              "text": "eat"
+            },
+            {
+              "text": "eats"
+            },
+            {
+              "text": "am eating"
+            },
+            {
+              "text": "is eating"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In the simple present tense, 'I' uses the base form of the verb without 's.' So, it stays 'eat.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "We ___ a movie right now. <br> (present continuous tense)",
+          "options": [
+            {
+              "text": "watch"
+            },
+            {
+              "text": "watches"
+            },
+            {
+              "text": "are watching"
+            },
+            {
+              "text": "is watching"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In the present continuous tense, we use 'are' with 'we' and add 'ing' to the verb. So, it becomes 'are watching.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "He ___ fast every day.<br>  (simple present tense)",
+          "options": [
+            {
+              "text": "run"
+            },
+            {
+              "text": "runs"
+            },
+            {
+              "text": "is running"
+            },
+            {
+              "text": "are running"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the simple present tense, for 'he,' we add 's' to the verb. So, it becomes 'runs.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "The sentence 'She is eats lunch at 12 PM' is in the present continuous tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The sentence is incorrect. It should be either 'She is eating lunch' (present continuous) or 'She eats lunch' (simple present)."
+        },
+        {
+          "questionNo": 17,
+          "question": "The dog ___ strangers every day.",
+          "options": [
+            {
+              "text": "bark"
+            },
+            {
+              "text": "barks"
+            },
+            {
+              "text": "is barking"
+            },
+            {
+              "text": "are barking"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the simple present tense, for 'the dog,' we add 's' to the verb. So, it becomes 'barks.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "We ___ at the party right now.",
+          "options": [
+            {
+              "text": "dance"
+            },
+            {
+              "text": "dances"
+            },
+            {
+              "text": "are dancing"
+            },
+            {
+              "text": "is dancing"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In the present continuous tense, we use 'are' with 'we' and add 'ing' to the verb. So, it becomes 'are dancing.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Tom ___  pictures every afternoon.",
+          "options": [
+            {
+              "text": "draw"
+            },
+            {
+              "text": "draws"
+            },
+            {
+              "text": "is drawing"
+            },
+            {
+              "text": "are drawing"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In the simple present tense, for 'Tom,' we add 's' to the verb. So, it becomes 'draws.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "The sentence 'They is playing outside' is in the simple present tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The sentence is incorrect because it uses 'is' instead of 'are.' It should be 'They are playing outside' in the present continuous tense."
+        }
+      ]
+    }
+  ]
+}
